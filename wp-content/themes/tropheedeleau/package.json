@@ -46,6 +46,7 @@
     "postinstall": "bower install && grunt build",
     "watch": "grunt watch",
     "browsersync": "grunt browser-sync",
-    "package": "grunt package"
+    "package": "grunt package",
+    "bwi": "bower install"
   }
 }
